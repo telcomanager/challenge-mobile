@@ -95,6 +95,8 @@ Nesta tela deverá ter uma opção para retornar a tela inicial com a lista de o
 
 ## Instruções para entrega do projeto
 
+- O projeto deverá ser feito usando React Native
+- A entrega deve ter instruções de como executar o projeto para ser testado
 - Você será avaliado pela diagramação e visual da sua solução, bem como as ténicas usadas para consumir as APIs e exibir os dados.
 - Não economize no visual e na usabilidade.
 - Desenvolva e use Git para versionamento do código

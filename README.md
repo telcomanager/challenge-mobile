@@ -57,21 +57,21 @@ A lista de prioridades será representada por um array associativo.
     },
   1:
     {
-      name: 'Critical',
+      name: 'Level 1',
       text_color: '#fff',
       background_color: #c00,
       priority: 1
     },
   2:
     {
-      name: 'Major',
+      name: 'Level 2',
       text_color: '#fff',
       background_color: '#a0a000',
       priority: 2
     },
   3:
     {
-      name: 'Minor',
+      name: 'Level 3',
       text_color: '#fff',
       background_color: '#d7d700',
       priority: 3

@@ -14,7 +14,7 @@ Os campos start e end são timestamps no formato Unix timestamp.
 A propriedade end só estará preenchida caso um objeto esteja desalarmado.
 Os campos alarm_name e object_name são textuais e representam os nomes do alarm e do objeto.
 O campo type poderá ter os seguintes valores: Dispositivo e Interface.
-O campo id_priority é numérico e faz referência a outro array (Lista de prioridades) que srá descrito abaixo.
+O campo id_priority é numérico e faz referência a outro array (Lista de prioridades) que será descrito abaixo.
 
 ```
 [
